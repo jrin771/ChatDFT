@@ -1,5 +1,7 @@
 # ChatDFT 
-Created for TreeHacks 2023 
+Few-Shot Predicting High-Entropy Alloy phases
+
+Created for TreeHacks 2023  
 
 Inspired by "Is GPT-3 all you need for low-data discovery in chemistry?" 
 
