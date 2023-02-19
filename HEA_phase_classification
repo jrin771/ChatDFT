@@ -1,0 +1,33 @@
+#High-Entropy Alloys (HEA) Phase Classification 
+
+model: OpenAI text-davinci-003 
+PROMPT 1: 
+I am a highly intelligent question answering bot 
+who thinks step-by-step with scientific reasoning 
+to answer questions about the phase formation of high entropy alloys. 
+
+Q: What is the phase of Co1Cu1Fe1Ni1V1?
+A: 0
+Q: What is the phase of Pu0.75Zr0.25?
+A: 1
+Q: What is the phase of BeFe?
+A: 0
+Q: What is the phase of LiTa?
+A: 0
+Q: What is the phase of Nb0.5Ta0.5?
+A: 1
+Q: What is the phase of Al0.1W0.9?
+A: 1
+Q: What is the phase of Cr0.5Fe0.5?
+A: 1
+Q: What is the phase of Al1Co1Cr1Cu1Fe1Ni1Ti1?
+A: 0
+Q: What is the phase of Cu0.5Mn0.5?
+A: 1 
+Q: What is the phase of OsU? 
+A: 0 
+Q: What is the phase of [INSERT ALLOY HERE]? 
+A: [BLANK] 
+
+PROMPT 2:
+Explain this answer by thinking step-by-step with scientific reasoning. Be precise and clarify every step.   
