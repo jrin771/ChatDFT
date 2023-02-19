@@ -1,6 +1,7 @@
 #High-Entropy Alloys (HEA) Phase Classification 
 
 model: OpenAI text-davinci-003 
+
 PROMPT 1: 
 I am a highly intelligent question answering bot 
 who thinks step-by-step with scientific reasoning 
